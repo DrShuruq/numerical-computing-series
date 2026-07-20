@@ -1,6 +1,8 @@
-# Numerical Analysis
+# Numerical Computing Series
 
-A curated collection of numerical methods, mathematical algorithms, and educational implementations for scientific computing.
+A collection of professionally written lesson-based resources covering numerical computing through mathematical theory, algorithms, programming implementations, and real-world applications.
+
+**Author:** Dr. Shuruq Alnefaie
 
 ## Repository Structure
 
